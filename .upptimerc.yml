@@ -9,8 +9,10 @@ sites:
     url: https://portal.ncu.edu.tw/login
   - name: FACEBOOK
     url: https://zh-tw.facebook.com/
+   - name: EECLASS
+    url: https://ncueeclass.ncu.edu.tw/
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://erroreror
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
